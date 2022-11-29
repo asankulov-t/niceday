@@ -1,0 +1,21 @@
+.nav{
+    display: flex;
+    align-items: center;
+    margin: 0;
+    padding: 0 120px;
+    height: 60px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.3);
+}
+.logo{
+    font-size: 30px;
+    cursor: pointer;
+}
+.logo span{
+    color: #3f9d2c;
+}
+.logo span:hover{
+    color: black;
+}
+.logo:hover{
+    color: #3f9d2c;
+}

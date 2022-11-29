@@ -1,0 +1,10 @@
+.input input{
+    width: 65%;
+    padding: 8px;
+    color: #c3c0c0;
+    font-size: 14px;
+    background: url("../../assets/searchIcon.png") no-repeat 8px 8px;
+    padding-left: 35px;
+    border-radius: 5px;
+    border: #c3c0c0 1px solid;
+}

@@ -1,0 +1,23 @@
+.item{
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+    padding-right: 120px;
+    padding-bottom: 14px;
+    border-bottom: #c3c0c0 1px solid;
+    width: 85%;
+}
+.item h3{
+    margin: 0;
+}
+.img{
+    margin-right: 12px;
+    padding: 60px;
+    border: #DEDBDC 1px solid;
+    border-radius: 100px;
+}
+.website{
+    color: #c3c0c0;
+    margin-top: 0;
+    margin-bottom: 20px;
+}

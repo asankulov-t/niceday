@@ -1,0 +1,12 @@
+.App {
+}
+.content{
+    z-index: -500;
+    background-color: #fffafa;
+    padding-left: 10px;
+}
+.main_container{
+    display: flex;
+}
+
+
